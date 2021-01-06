@@ -5,8 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EsercizioGaraMacchineThread"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="549.705" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="219*"/>
+            <RowDefinition Height="200*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="sfondo" HorizontalAlignment="Left" Height="578" VerticalAlignment="Top" Width="946" Source="vele-scampia.jpg" Margin="0,0,-154,-59" Grid.RowSpan="2"/>
+        <Image x:Name="macchina1" HorizontalAlignment="Left" Height="223" Margin="10,10,0,0" VerticalAlignment="Top" Width="288" Source="45-459460_yaris-macchine-prospetto-png.png" Grid.RowSpan="2"/>
+        <Image x:Name="macchina2" HorizontalAlignment="Left" Height="223" Margin="10,143,0,0" VerticalAlignment="Top" Width="288" Source="45-459460_yaris-macchine-prospetto-png.png" Grid.RowSpan="2"/>
+        <Image x:Name="macchina3" HorizontalAlignment="Left" Margin="15,220,0,76" Width="288" Source="45-459460_yaris-macchine-prospetto-png.png" Grid.RowSpan="2"/>
+        <Button x:Name="btnIniziaGara" Content="Inizia!" HorizontalAlignment="Left" Margin="248,127,0,0" VerticalAlignment="Top" Width="272" Height="111" FontSize="48" FontFamily="Source Sans Pro Semibold" Background="#FF24FF0E"  Click="btnIniziaGara_Click" Grid.Row="1"/>
+
     </Grid>
 </Window>

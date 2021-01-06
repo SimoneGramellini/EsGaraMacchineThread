@@ -1,0 +1,14 @@
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\obj\Debug\EsercizioGaraMacchineThread.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\obj\Debug\MainWindow.g.cs
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\obj\Debug\App.g.cs
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\obj\Debug\EsercizioGaraMacchineThread_MarkupCompile.cache
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\obj\Debug\EsercizioGaraMacchineThread_MarkupCompile.lref
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\bin\Debug\EsercizioGaraMacchineThread.exe.config
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\bin\Debug\EsercizioGaraMacchineThread.exe
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\bin\Debug\EsercizioGaraMacchineThread.pdb
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\obj\Debug\MainWindow.baml
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\obj\Debug\EsercizioGaraMacchineThread.g.resources
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\obj\Debug\EsercizioGaraMacchineThread.Properties.Resources.resources
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\obj\Debug\EsercizioGaraMacchineThread.csproj.GenerateResource.cache
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\obj\Debug\EsercizioGaraMacchineThread.exe
+C:\Users\simon\Desktop\Esercizio thread\EsercizioGaraMacchineThread\EsercizioGaraMacchineThread\obj\Debug\EsercizioGaraMacchineThread.pdb
